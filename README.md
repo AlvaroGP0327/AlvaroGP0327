@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlvaroGP0327
+- 👋 Hi, I’m Alvaro Gamboa.
 - 👀 I’m interested in Python backend: Flask, HTML, CSS.
 - Linux server administration.
 - 🌱 I’m currently working on web development with Flask.
