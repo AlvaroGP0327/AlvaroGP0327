@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Alvaro Gamboa.
-- 👀 I’m interested in Python backend: Flask, HTML, CSS.
+- 👀 I’m interested in Python backend: Django,Flask.
+- Some frontend just for render basic resources HTML, CSS.
 - Linux server administration.
 - 🌱 I’m currently working on web development with Flask.
 - 💞️ I’m looking to collaborate on Python web development
