@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Alvaro Gamboa.
-- 👀 I’m interested in Python backend: Django,Flask.
-- Some frontend just for render basic resources HTML, CSS.
-- Linux server administration.
+- 👀 I’m interested in Python Development: Pygame, Pixel Art.
 - 🌱 I’m currently working on web development with Django RestFramework
 - Colaboraste on Pygame-ce projects.
-- 💞️ I’m looking to collaborate on Python web development
+- 💞️ I’m looking to collaborate on Python Development
 - 📫 
 
 <!---
